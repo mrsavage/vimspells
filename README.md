@@ -1,0 +1,4 @@
+vimspells
+=========
+
+spells for vim
